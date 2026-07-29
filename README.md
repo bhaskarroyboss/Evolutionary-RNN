@@ -1,5 +1,5 @@
 # Evolutionary RNN
-
+[![DOI](https://zenodo.org/badge/1315991560.svg)](https://doi.org/10.5281/zenodo.21675360)
 > **An experimental hybrid recurrent neural network that allows individual neurons to adaptively evolve between Backpropagation and Contrastive Hebbian Learning.**
 
 Developed by **Bhaskar Roy** as part of the **Neuromatch Academy NeuroAI Project**.
